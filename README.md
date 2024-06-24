@@ -22,7 +22,7 @@ Desarrollador Fullstack, con 3+ años de experiencia en el desarrollo de sistema
 #### 2. Instalar dependencias del proyecto
 
 ```bash
-    npm init
+    npm install
 ```
 
 #### 3. Por ultimo, ejecutar 
